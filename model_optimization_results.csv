@@ -1,9 +1,0 @@
-iteration,params,mean_test_score
-0,"{'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 100}",0.8401407599981429
-1,"{'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 200}",0.8414327013922499
-2,"{'max_depth': 10, 'min_samples_split': 5, 'n_estimators': 100}",0.841195645944449
-3,"{'max_depth': 10, 'min_samples_split': 5, 'n_estimators': 200}",0.8414202497930334
-4,"{'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 100}",0.8797509963334074
-5,"{'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 200}",0.8809463862435761
-6,"{'max_depth': 20, 'min_samples_split': 5, 'n_estimators': 100}",0.8761465756227762
-7,"{'max_depth': 20, 'min_samples_split': 5, 'n_estimators': 200}",0.8776870784840327
