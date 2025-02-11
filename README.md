@@ -1,2 +1,2 @@
-# car-sales-ml-project
-Machine Learning project to predict car prices
+## Car Price Prediction Model
+### Machine Learning project to predict car prices
