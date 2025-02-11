@@ -22,7 +22,7 @@ numpy: For numerical operations and array management.
 seaborn: For data visualization, especially for statistical plots.
 matplotlib: For basic plotting and visualizing model results.
 scikit-learn: For implementing machine learning models and preprocessing steps.
-joblib: For serializing and saving the best model for future use.
+
 You can install these dependencies with the following command:
 
 bash
@@ -45,26 +45,8 @@ The model evaluation results (R² score and MAE) will be saved in a CSV file nam
 A variety of plots will be generated, including:
 Scatter plots comparing the actual vs. predicted car prices for each model.
 A bar plot comparing the R² scores of all models.
-The final best model will be saved as best_model.pkl.
-Step 4: Using the Saved Model for Predictions
-To use the trained model for future predictions, you can load the saved best_model.pkl and input new car data to predict its price. Here’s an example of how to do that:
 
-python
-Copy
-Edit
-import joblib
 
-# Load the best model
-best_model = joblib.load('best_model.pkl')
-
-# Example input data (ensure it is preprocessed in the same way as training data)
-input_data = {  
-    'Brand': 'Toyota',
-    'Model': 'Corolla',
-    'Year': 2020,
-    'Mileage': 30000,
-    # Add other relevant features as required
-}
 
 # Predict the price
 predicted_price = best_model.predict([input_data])
