@@ -1,0 +1,22 @@
+{
+    "train_r2": 0.9909216333318255,
+    "test_r2": 0.9217532302259777,
+    "train_mse": 8697336.048309,
+    "test_mse": 59410780.76344343,
+    "best_parameters": {
+        "max_depth": 30,
+        "min_samples_split": 2,
+        "n_estimators": 300
+    },
+    "feature_importance": {
+        "Age": 0.015470984297285037,
+        "Kilometers": 0.12932157305500971,
+        "Price_per_km": 0.6033793315761846,
+        "Brand_encoded": 0.0038508255777173982,
+        "Model_encoded": 0.02550947839628677,
+        "Type_encoded": 0.006050842898064435,
+        "avg_brand_price": 0.18202264401880394,
+        "avg_type_price": 0.027036622247033317,
+        "brand_count": 0.007357697933614782
+    }
+}
