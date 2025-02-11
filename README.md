@@ -1,6 +1,7 @@
 # Car Price Prediction Model 🚗
 ### Project Overview
-    This repository contains a machine learning project focused on predicting car prices using various regression models. The system analyzes car attributes like brand, model, manufacturing year, and mileage to accurately predict market prices.
+   
+ This repository contains a machine-learning project focused on predicting car prices using various regression models. The system analyzes car attributes like brand, model, manufacturing year, and mileage to accurately predict market prices.
     
 ### Key Features
 
@@ -9,22 +10,4 @@
 - Robust Evaluation: Uses R² score and Mean Absolute Error (MAE) for comprehensive model assessment
 - Production-Ready: Includes model serialization for easy deployment
 
-### Dependencies
-pandas
-NumPy
-seaborn
-matplotlib
-sci-kit-learn
-joblib
-### Model Performance
-#### Our system evaluates multiple regression models:
 
-Linear Regression: Simple, interpretable baseline model
-Random Forest: Robust ensemble learning approach
-Gradient Boosting: Sequential tree-based learning
-Lasso Regression: L1 regularized linear model
-
-Models are compared using:
-
-R² Score: Explains variance in price predictions
-Mean Absolute Error: Measures prediction accuracy
