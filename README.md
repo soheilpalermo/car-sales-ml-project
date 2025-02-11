@@ -9,18 +9,6 @@
 - Robust Evaluation: Uses R² score and Mean Absolute Error (MAE) for comprehensive model assessment
 - Production-Ready: Includes model serialization for easy deployment
 
-### Project Structure
-├── Resources/
-│   └── cars_info.csv           # Main dataset
-├── outputs/
-│   ├── model_evaluation_results.csv    # Model performance metrics
-│   └── best_model.pkl          # Serialized production model
-├── src/
-│   ├── preprocessing.py        # Data cleaning and transformation
-│   ├── model_training.py       # Model implementation
-│   └── evaluation.py           # Performance assessment
-└── README.md
-
 ### Dependencies
 pandas
 NumPy
