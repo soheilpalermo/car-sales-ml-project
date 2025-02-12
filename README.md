@@ -16,7 +16,7 @@
 - Support Vector Machine (SVM) ✅ (83.5% Accuracy)
 - K-Nearest Neighbors (KNN) ✅ (82.2% Accuracy)
 - Random Forest Classifier ❌ (78.4% Accuracy, overfitting issue)
-- 
+  
 ### Implemented Regression Models for Price Prediction:
 - Linear Regression
 - Random Forest Regressor
