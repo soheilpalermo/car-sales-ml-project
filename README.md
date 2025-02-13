@@ -1,15 +1,14 @@
 # Car Price Prediction Model 🚗
 ### Project Overview
    
- This repository contains a machine-learning project focused on predicting car prices using various regression models. The system analyzes car attributes like brand, model, manufacturing year, and mileage to accurately predict market prices.
- This project also integrates a Chatbot Assistant 🤖, allowing users to interact with the model and get real-time price predictions and car insights.
+
     
 ### 📌Key Features
 🔹 Data Preprocessing & Cleaning
 - Handled missing values and duplicates.
 - Encoded categorical features like Gearbox, Fuel Type, and Car Type using One-Hot Encoding.
 - Standardized numerical values (e.g., Mileage) for better model performance.
-🔹 Machine Learning Models
+
 
 
 ### Features
