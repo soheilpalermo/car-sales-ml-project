@@ -9,8 +9,13 @@ Additionally, this project integrates a Chatbot Assistant 🤖, which allows use
 - Handled missing values and duplicates.
 - Encoded categorical features like Gearbox, Fuel Type, and Car Type using One-Hot Encoding.
 - Standardized numerical values (e.g., Mileage) for better model performance.
-
-
+  
+### - Implemented Regression Models for Price Prediction:
+Linear Regression
+Random Forest Regressor
+Gradient Boosting
+Lasso Regression
+Evaluated using R² score and Mean Absolute Error (MAE).
 
 ### Features
 - **Natural Language Search:** Users can search for specific brands, models, or categories (e.g., "electric cars") using intuitive queries.
