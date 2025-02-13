@@ -10,12 +10,7 @@
 - Encoded categorical features like Gearbox, Fuel Type, and Car Type using One-Hot Encoding.
 - Standardized numerical values (e.g., Mileage) for better model performance.
 🔹 Machine Learning Models
-- Implemented Classification Models to categorize cars as Expensive vs. Affordable:
 
-- Logistic Regression ✅ (Best Model: 83.9% Accuracy)
-- Support Vector Machine (SVM) ✅ (83.5% Accuracy)
-- K-Nearest Neighbors (KNN) ✅ (82.2% Accuracy)
-- Random Forest Classifier ❌ (78.4% Accuracy, overfitting issue)
 
 ### Features
 - **Natural Language Search:** Users can search for specific brands, models, or categories (e.g., "electric cars") using intuitive queries.
