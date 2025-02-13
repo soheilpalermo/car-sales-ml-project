@@ -1,7 +1,6 @@
 # Car Price Prediction Model 🚗
 ### Project Overview
- This repository contains a Machine Learning (ML) project focused on predicting car prices using various regression and classification models. The system analyzes key car attributes like brand, model, manufacturing year, mileage, fuel type, and gearbox type to provide an accurate market price estimation.
-
+ This project is a machine learning-based system designed to predict car prices using historical sales data. It utilizes a Lasso regression model, Random forest, Gradient Boosting, Linear Regression to estimate car prices based on key vehicle attributes. The system includes data preprocessing, feature engineering, and an interactive chatbot for real-time predictions.
 Additionally, this project integrates a Chatbot Assistant 🤖, which allows users to interact with the model and get real-time price predictions and car insights.  
 
     
