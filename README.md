@@ -32,4 +32,7 @@ Git & GitHub (Version Control)
 ### 📌 Contributors
 Rajani, Soheil, Loku, Jane
 
+### Resource
+https://www.kaggle.com/datasets/lainguyn123/australia-car-market-data
+
 
