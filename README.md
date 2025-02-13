@@ -1,6 +1,8 @@
 # Car Price Prediction Model 🚗
 ### Project Overview
-   
+ This repository contains a Machine Learning (ML) project focused on predicting car prices using various regression and classification models. The system analyzes key car attributes like brand, model, manufacturing year, mileage, fuel type, and gearbox type to provide an accurate market price estimation.
+
+Additionally, this project integrates a Chatbot Assistant 🤖, which allows users to interact with the model and get real-time price predictions and car insights.  
 
     
 ### 📌Key Features
@@ -22,12 +24,12 @@
 - `chatbot.ipynb` - The main notebook containing the chatbot implementation.
 
 ### 📌 Technologies Used
-Python 🐍
-Pandas, NumPy (Data Processing)
-Scikit-learn (Machine Learning Models)
-Matplotlib, Seaborn (Data Visualization)
-Flask / Streamlit (Chatbot UI)
-Git & GitHub (Version Control)
+- Python 🐍
+- Pandas, NumPy (Data Processing)
+- Scikit-learn (Machine Learning Models)
+- Matplotlib, Seaborn (Data Visualization)
+- Flask / Streamlit (Chatbot UI)
+- Git & GitHub (Version Control)
 
 ### 📌 Contributors
 Rajani, Soheil, Loku, Jane
